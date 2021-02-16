@@ -1,0 +1,8 @@
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\bin\Debug\netcoreapp3.1\FirstAML.Courier.Service.deps.json
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\bin\Debug\netcoreapp3.1\FirstAML.Courier.Service.dll
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\bin\Debug\netcoreapp3.1\FirstAML.Courier.Service.pdb
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\obj\Debug\netcoreapp3.1\FirstAML.Courier.Service.AssemblyInfoInputs.cache
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\obj\Debug\netcoreapp3.1\FirstAML.Courier.Service.AssemblyInfo.cs
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\obj\Debug\netcoreapp3.1\FirstAML.Courier.Service.csproj.CoreCompileInputs.cache
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\obj\Debug\netcoreapp3.1\FirstAML.Courier.Service.dll
+C:\Projects\XERO with Asp dot net core\To Send\Project\FirstAML\FirstAML.Courier\FirstAML.Courier\obj\Debug\netcoreapp3.1\FirstAML.Courier.Service.pdb

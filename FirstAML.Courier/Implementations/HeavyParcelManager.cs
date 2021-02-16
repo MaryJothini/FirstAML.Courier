@@ -10,7 +10,7 @@ namespace FirstAML.Courier.Service.Implementations
         public decimal ParcelCost(decimal parcelSize, decimal ParcelWeight)
         {
             decimal regularRate = 50;
-            if (ParcelWeight < 50)
+            if (ParcelWeight > 50)
                 return regularRate + (ParcelWeight - 50) * 1;
             return regularRate;
         }
